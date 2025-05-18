@@ -1,0 +1,8 @@
+2025-05-18 13:38:03,622 [main] INFO 23rdNov24_Coverfox - Hello
+2025-05-18 13:38:27,267 [main] INFO 23rdNov24_Coverfox - Opening Browser
+2025-05-18 13:38:43,171 [main] INFO 23rdNov24_Coverfox - Closing Browser
+2025-05-18 13:51:05,743 [main] INFO 23rdNov24_Coverfox - Hello
+2025-05-18 13:51:11,849 [main] WARN 23rdNov24_Coverfox - Opening Browser
+2025-05-18 13:52:00,571 [main] INFO 23rdNov24_Coverfox - Hello
+2025-05-18 13:52:09,172 [main] WARN 23rdNov24_Coverfox - Opening Browser
+2025-05-18 13:52:37,409 [main] INFO 23rdNov24_Coverfox - Closing Browser
