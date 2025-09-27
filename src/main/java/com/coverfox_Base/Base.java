@@ -23,7 +23,7 @@ public class Base {
 	driver.manage().timeouts().implicitlyWait(Duration.ofMillis(2000));
 	Reporter.log("Launching a Browser",true);
 	}
-	
+	//King 
 	public void CloseBrowserWindow() {
 		Reporter.log("Closing a Browser",true);
 		driver.quit();
