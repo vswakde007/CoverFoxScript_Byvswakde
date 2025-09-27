@@ -1,7 +1,6 @@
 package com.coverfox_Base;
 
 import java.io.IOException;
-import java.lang.classfile.ClassFile.Option;
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
@@ -12,7 +11,7 @@ import org.testng.Reporter;
 import com.coverfox_Utility.Utility;
 
 public class Base {
-	
+	// this is chrome opening method
 	protected static WebDriver driver;
 	public void OpenBrowser() throws IOException {
 		ChromeOptions options =new ChromeOptions();
