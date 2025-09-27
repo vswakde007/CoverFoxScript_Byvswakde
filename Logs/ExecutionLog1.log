@@ -6,3 +6,14 @@
 2025-05-18 13:52:00,571 [main] INFO 23rdNov24_Coverfox - Hello
 2025-05-18 13:52:09,172 [main] WARN 23rdNov24_Coverfox - Opening Browser
 2025-05-18 13:52:37,409 [main] INFO 23rdNov24_Coverfox - Closing Browser
+2025-05-24 19:36:24,353 [main] INFO 23rdNov24_Coverfox - Hello
+2025-05-24 19:36:53,485 [main] INFO 23rdNov24_Coverfox - Hello
+2025-08-29 19:17:32,900 [main] INFO 23rdNov24_Coverfox - Hello
+2025-08-29 19:18:15,189 [main] WARN 23rdNov24_Coverfox - Opening Browser
+2025-08-29 19:18:45,721 [main] INFO 23rdNov24_Coverfox - Closing Browser
+2025-09-18 15:53:13,104 [main] INFO 23rdNov24_Coverfox - Hello
+2025-09-18 15:53:13,109 [main] INFO 23rdNov24_Coverfox - Hello
+2025-09-18 15:53:46,373 [main] WARN 23rdNov24_Coverfox - Opening Browser
+2025-09-18 15:53:46,707 [main] WARN 23rdNov24_Coverfox - Opening Browser
+2025-09-18 15:54:06,939 [main] INFO 23rdNov24_Coverfox - Closing Browser
+2025-09-18 15:54:07,116 [main] INFO 23rdNov24_Coverfox - Closing Browser
